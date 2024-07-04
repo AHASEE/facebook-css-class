@@ -1,0 +1,66 @@
+*{ margin: 0%; font-family: Arial, Helvetica, sans-serif;}
+.nav-bar{background: #0866FF; height: 100px; display: flex;
+}
+
+.nav-two{ color: white; font-size: x-large; margin-left: 80px;
+           margin-top: 45px;
+}
+.nav-email  { align-content: end; color :white ; font-size: 14px;
+              margin-left: 350px; padding: 1px;
+}
+.nav-pass {align-content: end; color :white; padding: 1px; 
+                
+               margin-left: 20px; font-size: 14px;
+}
+.button{margin-top: 62px; margin-left:20px ; 
+}
+button { background-color: #0866FF; color: white
+}
+/* main box start here */
+.main-one{ margin-top: 30px; margin-right:80px;
+}
+.para { line-height: 3rem; margin-left: 90px; margin-top: 30px;
+} 
+b{margin-left: 10px;
+}
+
+
+ /* second main box start here */
+ .body-one{background-color: #EDF0F5;}
+
+ .main-body{ display: flex; margin-left:95px; margin-top: 30px;
+}
+.main-two p {margin-bottom: 15px;}
+ 
+ #firstname{ height: 30px; width: 200px; 
+}
+ #lastname {  height: 30px; width: 200px;
+}
+#email{ height: 30px; width: 410px; margin-top: 10px;
+}
+#re-email{height: 30px; width: 410px; margin-top: 10px;
+}
+#password{height: 30px; width: 410px; margin-top: 10px;
+}
+/* third part of main  */
+
+ .birth{margin-top: 15px; 
+}
+.birth-two{display: flex;}
+#Day{ width: 60px;height: 25px;
+}
+.para-three{color: #0866FF; font-size: small;
+}
+.form-one{ margin-top: 15px ;
+}
+.para-four{ font-size: small; margin-top: 15px;
+
+}
+.blue{ color: #0866FF;}
+
+.buttonsign{ background-color: #67954a; width:180px; height:40px;
+     border-top-left-radius: 5px; border-top-right-radius: 5px; 
+     border-bottom-left-radius: 5px;border-top-right-radius: 5px;
+     font-size: medium;
+}
+hr{ margin-top: 15px;}
